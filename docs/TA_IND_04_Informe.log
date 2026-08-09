@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.8)  8 AUG 2026 23:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.8.8)  8 AUG 2026 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,6 +910,57 @@ o \T1/lmtt/m/n/10.95 resultados/figuras/tiempos_resumen.csv
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+! Too many }'s.
+\@endfloatbox ...pagefalse \outer@nobreak \egroup 
+                                                  \color@endbox 
+l.62 \end{table}
+                
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Extra \endgroup.
+\color@endgroup ->\endgraf \@endpefalse \endgroup 
+                                                  
+l.62 \end{table}
+                
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+\color@endbox ->\color@endgroup \egroup 
+                                        
+l.62 \end{table}
+                
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \end{table}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+\end  ...end#1\endcsname \@checkend {#1}\endgroup 
+                                                  \UseHook {env/#1/after}\if...
+l.62 \end{table}
+                
+Things are pretty mixed up, but I think the worst is over.
+
+<../figuras/fig_speedup.png, id=41, 643.203pt x 426.393pt>
+File: ../figuras/fig_speedup.png Graphic file (type png)
+<use ../figuras/fig_speedup.png>
+Package pdftex.def Info: ../figuras/fig_speedup.png  used on input line 66.
+(pdftex.def)             Requested size: 409.71692pt x 271.61536pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [1
 
 {C:/Users/leonardo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/l
@@ -917,13 +968,13 @@ eonardo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/le
 onardo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users
 /leonardo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/
 leonardo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
-[2]
-Overfull \hbox (9.86223pt too wide) in paragraph at lines 99--100
+[2 <../figuras/fig_speedup.png>] [3]
+Overfull \hbox (9.86223pt too wide) in paragraph at lines 109--110
 \T1/lmr/m/n/10.95 lum-nas ca-rre-ra, pa-ra-le-lo, pe-rio-do, pro-me-dio_general
 , por-cen-ta-je_asistencia, n_estudiantes_riesgo
  []
 
-[3] [4] [5] [6] (TA_IND_04_Informe.aux
+[4] [5] [6] (TA_IND_04_Informe.aux
 LaTeX Info: Redefining \sptext on input line 16.
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
@@ -939,13 +990,13 @@ Package logreq Info: Writing requests to 'TA_IND_04_Informe.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23117 strings out of 467871
- 462986 string characters out of 5416925
- 1281870 words of memory out of 5000000
- 51721 multiletter control sequences out of 15000+600000
+ 23128 strings out of 467871
+ 463293 string characters out of 5416925
+ 1282210 words of memory out of 5000000
+ 51731 multiletter control sequences out of 15000+600000
  688868 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,11n,80p,1535b,2080s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,11n,80p,1535b,1854s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/leonardo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10
 .pfb><C:/Users/leonardo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmb
 x12.pfb><C:/Users/leonardo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
@@ -960,9 +1011,9 @@ type1/public/lm/lmri10.pfb><C:/Users/leonardo/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/lm/lmsy10.pfb><C:/Users/leonardo/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/lm/lmsy8.pfb><C:/Users/leonardo/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/lm/lmtt10.pfb>
-Output written on TA_IND_04_Informe.pdf (6 pages, 307165 bytes).
+Output written on TA_IND_04_Informe.pdf (6 pages, 471394 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 188 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
+ 70 words of extra memory for PDF output out of 10000 (max. 10000000)
 

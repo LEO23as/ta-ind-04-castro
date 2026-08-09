@@ -59,6 +59,16 @@ T5 -- Ordenamiento + top-N    & 9.5726  & 32.6862 & 0.3013 \\
 \caption{Tiempos medianos y speedup por transformación (pandas vs. PySpark con $N=4$ executors).}
 \label{tab:tiempos}
 \end{table}
+\end{table}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.9\textwidth]{../figuras/fig_speedup.png}
+  \caption{Speedup medido de las cinco transformaciones vs. curva teórica de Amdahl con $p=1$. Todos los puntos observados quedan por debajo de $S=1$, muy lejos de la predicción teórica $S(4)=4$. La brecha refleja la sobrecarga estructural del motor PySpark que domina sobre la ganancia de paralelismo en este volumen de datos.}
+  \label{fig:speedup}
+\end{figure}
+
+
 
 El primer resultado que salta a la vista es que las cinco transformaciones tienen $S < 1$: en todos los casos PySpark fue más lento que pandas. Para T4 (transformación foco), el speedup medido es $S = 0.2227$, es decir, PySpark tardó aproximadamente 4.7 veces más que pandas en generar la columna derivada.
 
