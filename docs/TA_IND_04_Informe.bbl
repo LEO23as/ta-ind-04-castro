@@ -1,0 +1,247 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{leal2026}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=b11351571a9fdef281b935bf194d5667}{%
+           family={Leal},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi Joel},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5ff13ed3956551a067066c8fa8d3d95f}{%
+           family={Meza\bibnamedelima Aguilar},
+           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3f61a6bc72a2270966f42c33e2a2d22a}{%
+           family={Nieblas},
+           familyi={N\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{877d2682579e334dae8a1d2ee8adb9fb}
+      \strng{fullhash}{b16e8721e15a05c80d9965cfebd2dd97}
+      \strng{fullhashraw}{b16e8721e15a05c80d9965cfebd2dd97}
+      \strng{bibnamehash}{b16e8721e15a05c80d9965cfebd2dd97}
+      \strng{authorbibnamehash}{b16e8721e15a05c80d9965cfebd2dd97}
+      \strng{authornamehash}{877d2682579e334dae8a1d2ee8adb9fb}
+      \strng{authorfullhash}{b16e8721e15a05c80d9965cfebd2dd97}
+      \strng{authorfullhashraw}{b16e8721e15a05c80d9965cfebd2dd97}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Information Science and Technological Applications}
+      \field{number}{2}
+      \field{title}{Análisis Cuantitativo de la Eficiencia en la Paralelización OpenMP de la Ecuación de Difusión}
+      \field{volume}{2}
+      \field{year}{2026}
+      \field{pages}{11\bibrangedash 19}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb https://revistas.uas.edu.mx/index.php/IJISTA/article/view/1833
+      \endverb
+      \verb{url}
+      \verb https://revistas.uas.edu.mx/index.php/IJISTA/article/view/1833
+      \endverb
+    \endentry
+    \entry{lehuy2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=ccf74e1a373b865c0bd0bcb0f000634a}{%
+           family={Le-Huy},
+           familyi={L\bibinithyphendelim H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fe4df398559a5bb57caf771b57be31ad}{%
+           family={Guérette},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c49a5c7ef702ef9da6a37d7a4163a5da}{%
+           family={Guay},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ad9d20cdbbd1439dfaa4e0ac5b1a7fb}
+      \strng{fullhash}{a7917a51272fee4fb80ad0687af79566}
+      \strng{fullhashraw}{a7917a51272fee4fb80ad0687af79566}
+      \strng{bibnamehash}{a7917a51272fee4fb80ad0687af79566}
+      \strng{authorbibnamehash}{a7917a51272fee4fb80ad0687af79566}
+      \strng{authornamehash}{3ad9d20cdbbd1439dfaa4e0ac5b1a7fb}
+      \strng{authorfullhash}{a7917a51272fee4fb80ad0687af79566}
+      \strng{authorfullhashraw}{a7917a51272fee4fb80ad0687af79566}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electric Power Systems Research}
+      \field{title}{Performance evaluation of communication fabrics for offline parallel electromagnetic transient simulation based on MPI}
+      \field{volume}{223}
+      \field{year}{2023}
+      \field{pages}{109629}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.epsr.2023.109629
+      \endverb
+    \endentry
+    \entry{lizardo2026}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=876254c5c9ef30cb9565bee7e9f43f84}{%
+           family={Lizardo},
+           familyi={L\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=22bb7ebbfe75c04851a8ca34167e2680}{%
+           family={Goyes},
+           familyi={G\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c167d8560887640f0e5cafc1cad9a09}
+      \strng{fullhash}{1c167d8560887640f0e5cafc1cad9a09}
+      \strng{fullhashraw}{1c167d8560887640f0e5cafc1cad9a09}
+      \strng{bibnamehash}{1c167d8560887640f0e5cafc1cad9a09}
+      \strng{authorbibnamehash}{1c167d8560887640f0e5cafc1cad9a09}
+      \strng{authornamehash}{1c167d8560887640f0e5cafc1cad9a09}
+      \strng{authorfullhash}{1c167d8560887640f0e5cafc1cad9a09}
+      \strng{authorfullhashraw}{1c167d8560887640f0e5cafc1cad9a09}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Innovation \& Development in Engineering and Applied Science}
+      \field{number}{1}
+      \field{title}{Arquitectura y herramientas de software para el manejo de Big Data en entornos computacionales}
+      \field{volume}{8}
+      \field{year}{2026}
+      \verb{doi}
+      \verb 10.53358/IDEAS.V8I1.1174
+      \endverb
+    \endentry
+    \entry{alvarez2010}{report}{}{}
+      \name{author}{3}{}{%
+        {{hash=94efc58c12b78160f5922be0ccbd6381}{%
+           family={Álvarez\bibnamedelima Moreno},
+           familyi={Á\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1298800d5f40a36a2d33004dd890b850}{%
+           family={Lara\bibnamedelima Gimeno},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=617528d2c7710e7b5bc1da27af9e6d63}{%
+           family={Padellano\bibnamedelima Avilés},
+           familyi={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Complutense de Madrid}%
+      }
+      \strng{namehash}{c5e488db61985e34648f288b45b9bd5c}
+      \strng{fullhash}{2f3ad40398156029c92329ce43854d8e}
+      \strng{fullhashraw}{2f3ad40398156029c92329ce43854d8e}
+      \strng{bibnamehash}{2f3ad40398156029c92329ce43854d8e}
+      \strng{authorbibnamehash}{2f3ad40398156029c92329ce43854d8e}
+      \strng{authornamehash}{c5e488db61985e34648f288b45b9bd5c}
+      \strng{authorfullhash}{2f3ad40398156029c92329ce43854d8e}
+      \strng{authorfullhashraw}{2f3ad40398156029c92329ce43854d8e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Análisis de rendimiento y fiabilidad de sistemas informáticos}
+      \field{type}{techreport}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://hdl.handle.net/20.500.14352/46046
+      \endverb
+      \verb{url}
+      \verb https://hdl.handle.net/20.500.14352/46046
+      \endverb
+    \endentry
+    \entry{cierco2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=5aa2d38423a4b65d8cc626577c174702}{%
+           family={Cierco},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Fundación Ideas}%
+      }
+      \strng{namehash}{5aa2d38423a4b65d8cc626577c174702}
+      \strng{fullhash}{5aa2d38423a4b65d8cc626577c174702}
+      \strng{fullhashraw}{5aa2d38423a4b65d8cc626577c174702}
+      \strng{bibnamehash}{5aa2d38423a4b65d8cc626577c174702}
+      \strng{authorbibnamehash}{5aa2d38423a4b65d8cc626577c174702}
+      \strng{authornamehash}{5aa2d38423a4b65d8cc626577c174702}
+      \strng{authorfullhash}{5aa2d38423a4b65d8cc626577c174702}
+      \strng{authorfullhashraw}{5aa2d38423a4b65d8cc626577c174702}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cloud computing: retos y oportunidades}
+      \field{year}{2011}
+    \endentry
+    \entry{jaime2021}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=8239ee7000a9ad09b8670a2649f563a1}{%
+           family={Jaime},
+           familyi={J\bibinitperiod},
+           given={Rubén\bibnamedelima Alejandro},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Nacional de La Plata}%
+      }
+      \strng{namehash}{8239ee7000a9ad09b8670a2649f563a1}
+      \strng{fullhash}{8239ee7000a9ad09b8670a2649f563a1}
+      \strng{fullhashraw}{8239ee7000a9ad09b8670a2649f563a1}
+      \strng{bibnamehash}{8239ee7000a9ad09b8670a2649f563a1}
+      \strng{authorbibnamehash}{8239ee7000a9ad09b8670a2649f563a1}
+      \strng{authornamehash}{8239ee7000a9ad09b8670a2649f563a1}
+      \strng{authorfullhash}{8239ee7000a9ad09b8670a2649f563a1}
+      \strng{authorfullhashraw}{8239ee7000a9ad09b8670a2649f563a1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estudio comparativo entre Apache Flink y Apache Spark}
+      \field{type}{mathesis}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb http://sedici.unlp.edu.ar/handle/10915/126780
+      \endverb
+      \verb{url}
+      \verb http://sedici.unlp.edu.ar/handle/10915/126780
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
