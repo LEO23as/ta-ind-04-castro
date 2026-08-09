@@ -11,7 +11,7 @@
 - **Repositorio del PFC:** https://github.com/LEO23as/sga-sistema-distribuido
 - **Equipo PE-U4:** BCEL (Keyla Bedón, Juliana Emanuel, Harol Vinueza, Pedro Castro)
 - **Repositorio PE-U4 (origen de los datos):** https://github.com/BedonViteri/pe-u4-spark-BCEL
-- **Commit de origen:** _(pendiente: agregar hash cuando se cierre el grupal)_
-- **Transformación foco:** T3 (join de DataFrames)
+- **Commit de origen:** `b67d686a3a2346ab3e6324143d9d0e13136b7a8b`
+- **Transformación foco:** T4 (columna derivada compleja)
 
 ## Estructura del repositorio
